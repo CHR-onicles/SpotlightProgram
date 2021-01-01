@@ -15,4 +15,4 @@ Python Script to extract, rename or delete selected images from Spotlight Photos
 - Need to create folder on desktop called <i>wallpaper</i> (Permanent Storage for pics)
 
 ## PS:
-This program has now been rewritten with a GUI with more options and ease of use.
+This program has now been rewritten with a GUI(using PyQt5) in another project with more options and ease of use.
